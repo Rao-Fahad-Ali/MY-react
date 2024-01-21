@@ -1,0 +1,14 @@
+.portfolio {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .portfolio img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  .port{
+    margin-top: 20px 40px;
+  }

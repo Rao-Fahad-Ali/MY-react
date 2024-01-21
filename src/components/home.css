@@ -1,0 +1,68 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+.homepage {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  /* position: fixed; */
+}
+
+h1 {
+  color: #333;
+}
+/* .pic, .img2{
+height: 150px;
+width: 150px;
+float: right;
+border-radius: 20px;
+margin-top: 50px;
+margin-left: 60px;
+} */
+
+p,h3 {
+  margin: 20px 10px;
+  z-index: 1;
+  color: black;
+}
+
+.contact, .pp {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+  z-index: 1;
+  background-color: #333;
+  color: white;
+}
+.pic1{
+  width: 100%;
+}
+.course-card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+  z-index: 1;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: auto;
+}
