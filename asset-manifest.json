@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/My-react/static/css/main.fce3ad11.css",
+    "main.js": "/My-react/static/js/main.fdd0a1aa.js",
+    "static/js/787.d5fa4d18.chunk.js": "/My-react/static/js/787.d5fa4d18.chunk.js",
+    "static/media/gulu.jpg": "/My-react/static/media/gulu.a2a496c80ab5b6a28d32.jpg",
+    "static/media/gra.jpg": "/My-react/static/media/gra.ba118d9b0c8163d56ef3.jpg",
+    "static/media/img.jpg": "/My-react/static/media/img.90994c44fef884a4d46e.jpg",
+    "static/media/aimz.png": "/My-react/static/media/aimz.7d3624f8c935fd80f389.png",
+    "static/media/tech.jpg": "/My-react/static/media/tech.0ea38baa970831a0cd99.jpg",
+    "static/media/zaku.jpg": "/My-react/static/media/zaku.1f68333992901fc690d4.jpg",
+    "static/media/OFF.jpg": "/My-react/static/media/OFF.a64eda44dbac33c0e2f4.jpg",
+    "index.html": "/My-react/index.html",
+    "main.fce3ad11.css.map": "/My-react/static/css/main.fce3ad11.css.map",
+    "main.fdd0a1aa.js.map": "/My-react/static/js/main.fdd0a1aa.js.map",
+    "787.d5fa4d18.chunk.js.map": "/My-react/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fce3ad11.css",
+    "static/js/main.fdd0a1aa.js"
+  ]
+}
